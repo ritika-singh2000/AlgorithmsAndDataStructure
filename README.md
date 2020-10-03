@@ -152,7 +152,7 @@ Check [Contribution](/CONTRIBUTING.md) Guide Before Contribution.
 - Create separate issues for Python and C++.
 - You can only work on issues that you have been assigned to.
 - Use Flake8 locally for linting Python Code. `pip install flake8`. 
-  (We have linting checks so if your code fails it we will not merge the PR.)
+  (We have linting checks so if your code fails it we will not merge the PR).
 
 ## Authors and acknowledgment
 
